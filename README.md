@@ -55,7 +55,7 @@ How to Run :
 
 1.Clone the repository:
 
-git clone <repository-link>
+git clone(repository-link)
 
 2.Open the project folder:
 
