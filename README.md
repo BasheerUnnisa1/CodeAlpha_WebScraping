@@ -53,29 +53,37 @@ Demo Video
 How to Run :
 --------------------------------------------
 
-1️⃣ Clone the repository
+## How to Run
 
+### 1️⃣ Clone the repository
+```bash
 git clone <repository-link>
+```
 
-2️⃣ Open the project folder
-
+### 2️⃣ Open the project folder
+```bash
 cd CodeAlpha_WebScraping
+```
 
-3️⃣ Install required libraries (run one by one)
-
+### 3️⃣ Install required libraries (run one by one)
+```bash
 pip install requests
 pip install beautifulsoup4
 pip install pandas
 pip install matplotlib
+```
 
-4️⃣ Run the scraper
-
+### 4️⃣ Run the scraper
+```bash
 python scraper.py
+```
 
-5️⃣ Run data analysis
-
+### 5️⃣ Run data analysis
+```bash
 python analysis.py
+```
 
-6️⃣ Run visualization
-
+### 6️⃣ Run visualization
+```bash
 python visualization.py
+```
