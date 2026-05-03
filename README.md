@@ -48,10 +48,8 @@ Watch the project demonstration here:
 
 Demo Video
 
-How to Run :
+How to Run 
 --------------------------------------------
-
-## How to Run
 
 ### 1️⃣ Clone the repository
 ```bash
