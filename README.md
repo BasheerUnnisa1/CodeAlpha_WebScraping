@@ -92,3 +92,14 @@ Running the project produces:
 * A CSV dataset containing scraped makeup product data (`makeup_products.csv`)
 * Analytical insights derived from the dataset
 * Charts and graphs illustrating key trends and patterns
+
+ Skills Demonstrated
+ ------------------------------------------------
+ 
+* Web scraping automation using Python
+* Data preprocessing and cleaning
+* Exploratory Data Analysis (EDA)
+* Data visualization
+* Git & GitHub workflow
+
+  
