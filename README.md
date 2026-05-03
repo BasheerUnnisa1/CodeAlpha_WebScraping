@@ -23,8 +23,8 @@ The project demonstrates the complete pipeline of data extraction → dataset cr
  Features
 -------------------------------------------------------
 
-• Automated extraction of makeup product data from a public API  
-• Creation of a clean and structured CSV dataset  
-• Data analysis using Pandas for meaningful insights  
-• Visualization of product trends using Matplotlib  
-• Complete end-to-end data pipeline from scraping to visualization
+* Automated extraction of makeup product data from a public API  
+* Creation of a clean and structured CSV dataset
+* Data analysis using Pandas for meaningful insights
+* Visualization of product trends using Matplotlib
+* Complete end-to-end data pipeline from scraping to visualization
