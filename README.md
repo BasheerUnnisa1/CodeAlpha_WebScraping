@@ -43,3 +43,9 @@ CodeAlpha_WebScraping
 ├── visualization.py      # Creates charts and visual insights
 └── README.md             # Project documentation
 ```
+
+Demo Video
+--------------------------------------
+Watch the project demonstration here:
+
+Demo Video
