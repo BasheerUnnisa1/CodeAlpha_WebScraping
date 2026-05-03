@@ -89,6 +89,6 @@ Output
 
 Running the project produces:
 
-* A CSV dataset containing scraped makeup product data (makeup_products.csv)
+* A CSV dataset containing scraped makeup product data (`makeup_products.csv`)
 * Analytical insights derived from the dataset
-> Charts and graphs illustrating key trends and patterns
+* Charts and graphs illustrating key trends and patterns
