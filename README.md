@@ -1,5 +1,5 @@
 Web Scraping – Makeup Products Dataset
-<hr style="height:4px; border:none; background-color:gray;">
+---------------------------------------------------------
 
 Description
 --------------------------------------------------------
