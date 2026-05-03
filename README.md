@@ -32,8 +32,6 @@ The project demonstrates the complete pipeline of data extraction → dataset cr
  Repository Structure
 --------------------------------------------------------------
 
-## Repository Structure
-
 ```
 CodeAlpha_WebScraping
 │
