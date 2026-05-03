@@ -49,3 +49,33 @@ Demo Video
 Watch the project demonstration here:
 
 Demo Video
+
+How to Run :
+--------------------------------------------
+
+1.Clone the repository:
+
+git clone <repository-link>
+
+2.Open the project folder:
+
+cd CodeAlpha_WebScraping
+
+3.Install libraries (run one by one):
+
+pip install requests
+pip install beautifulsoup4
+pip install pandas
+pip install matplotlib
+
+4.Run the scraper:
+
+python scraper.py
+
+5.Run data analysis:
+
+python analysis.py
+
+6.Run visualization:
+
+python visualization.py
