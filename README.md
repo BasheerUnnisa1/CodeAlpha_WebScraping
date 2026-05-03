@@ -55,7 +55,7 @@ How to Run :
 
 1️⃣ Clone the repository
 
-git clone <repository-link>
+git clone https://github.com/your-username/CodeAlpha_WebScraping.git
 
 2️⃣ Open the project folder
 
