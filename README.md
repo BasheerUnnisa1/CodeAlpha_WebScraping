@@ -32,10 +32,14 @@ The project demonstrates the complete pipeline of data extraction → dataset cr
  Repository Structure
 --------------------------------------------------------------
 
-CodeAlpha_WebScraping/
+## Repository Structure
+
+```
+CodeAlpha_WebScraping
 │
-├── scraper.py            # Extracts product data and saves it to CSV  
-├── makeup_products.csv   # Generated dataset from scraping  
-├── analysis.py           # Performs data cleaning and analysis  
-├── visualization.py      # Creates charts and visual insights  
+├── scraper.py            # Extracts product data and saves it to CSV
+├── makeup_products.csv   # Generated dataset from scraping
+├── analysis.py           # Performs data cleaning and analysis
+├── visualization.py      # Creates charts and visual insights
 └── README.md             # Project documentation
+```
