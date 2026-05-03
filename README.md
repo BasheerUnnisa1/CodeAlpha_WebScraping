@@ -8,3 +8,14 @@ This project focuses on extracting real-world data from the web using Python web
 The script collects makeup product information from a public cosmetics API, converts the raw data into a structured dataset, and performs analysis and visualization.
 
 The project demonstrates the complete pipeline of data extraction → dataset creation → analysis → visualization.
+
+ Technologies Used
+--------------------------------------------------
+
+| Category | Tools |
+|----------|------|
+| Programming | Python |
+| Web Scraping | Requests, BeautifulSoup |
+| Data Handling | Pandas |
+| Visualization | Matplotlib |
+| Version Control | Git & GitHub |
