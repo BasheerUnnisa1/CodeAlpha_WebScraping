@@ -93,6 +93,15 @@ Running the project produces:
 * Analytical insights derived from the dataset
 * Charts and graphs illustrating key trends and patterns
 
+  ## 📊 Visualizations
+
+### 📈 Top 5 Makeup Brands by Number of Products
+![Top Brands Graph](graph1.png)
+
+### 💰 Price Distribution of Products
+![Price Distribution Graph](graph2.png)
+
+
  Skills Demonstrated
  ------------------------------------------------
  
