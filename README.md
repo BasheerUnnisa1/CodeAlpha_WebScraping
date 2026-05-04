@@ -96,9 +96,13 @@ Running the project produces:
   ## 📊 Visualizations
 
 ### 📈 Top 5 Makeup Brands by Number of Products
+----------------------------------------------------------
+
 ![Top Brands Graph](graph1.png)
 
 ### 💰 Price Distribution of Products
+---------------------------------------------------------
+
 ![Price Distribution Graph](graph2.png)
 
 
@@ -110,5 +114,12 @@ Running the project produces:
 * Exploratory Data Analysis (EDA)
 * Data visualization
 * Git & GitHub workflow
+
+Author
+---------------------------------------------
+
+Shaik Basheer Unnisa
+
+> Python Developer | Data Analysis Enthusiast
 
   
