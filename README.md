@@ -29,10 +29,12 @@ The project demonstrates the complete pipeline of data extraction → dataset cr
 * Visualization of product trends using Matplotlib
 * Complete end-to-end data pipeline from scraping to visualization
 
-Demo Video
---------------------------------------
+🎥 Demo Video
+---------------------------------------------------------------
 
-Watch the project demonstration here: https://youtu.be/xqf2INTKesM
+▶️ Watch the project demonstration here: 
+
+[Link](https://youtu.be/xqf2INTKesM)
 
  Repository Structure
 --------------------------------------------------------------
