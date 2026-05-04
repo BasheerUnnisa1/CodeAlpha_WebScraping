@@ -34,7 +34,7 @@ The project demonstrates the complete pipeline of data extraction → dataset cr
 
 ▶️ Watch the project demonstration here: 
 
-[Link](https://youtu.be/xqf2INTKesM)
+[Demo Vedio](https://youtu.be/xqf2INTKesM)
 
  Repository Structure
 --------------------------------------------------------------
