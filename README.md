@@ -29,6 +29,11 @@ The project demonstrates the complete pipeline of data extraction → dataset cr
 * Visualization of product trends using Matplotlib
 * Complete end-to-end data pipeline from scraping to visualization
 
+Demo Video
+--------------------------------------
+
+Watch the project demonstration here: https://youtu.be/xqf2INTKesM
+
  Repository Structure
 --------------------------------------------------------------
 
@@ -41,12 +46,6 @@ CodeAlpha_WebScraping
 ├── visualization.py      # Creates charts and visual insights
 └── README.md             # Project documentation
 ```
-
-Demo Video
---------------------------------------
-Watch the project demonstration here:
-
-Demo Video
 
 How to Run 
 --------------------------------------------
